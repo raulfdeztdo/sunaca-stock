@@ -9,7 +9,7 @@
 
 ***
 
-Esta aplicación web esta construida con Bootstrap 4 y con código PHP, HTML,
+Esta aplicación web esta construida con Bootstrap 4 y programado en PHP, HTML,
 CSS y javaScript. Es una aplicación para una empresa real llamada Sunaca Iluminación,
 realizada durante mi periodo de prácticas de empresa ICARO en ella.
 
