@@ -18,12 +18,12 @@ medio de ficheros CSV y TXT, segun para la plataforma en la que quieras actualiz
 su stock, para Oxatis CSV, para amazon TXT y para Mano a Mano CSV.
 
 La instalación de la aplicación web es muy sencilla, descargar la carpeta, pegarla
-en el servidor web, importar la base de datos en PHPMYADMIN y configurar la conexión
-de la base de datos en el fichero 'conexion.php'
+en el servidor web, importar la base de datos ('sunacadb.sql') en PHPMYADMIN y configurar la conexión
+de la base de datos en el fichero 'conexion.php'.
 
 ***
 
-![img2](img/imgweb.jpg)
+![img2](img/imgweb1.jpg)
 
 ***
 
